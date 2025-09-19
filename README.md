@@ -20,9 +20,8 @@ Install dependencies.<br>
 
 <h4>5. Set environment variables.</h4>
 This project requires you to create two environment variables for LLM and embedding access.<br>
-Create a <code>.env</code> file.
-<code>
-GROQ_API_KEY="your key"
+Create a <code>.env</code> file. <br>
+<code>GROQ_API_KEY="your key"
 COHERE_API_KEY = "your key"
 </code>
 To create both the API keys, visit 
